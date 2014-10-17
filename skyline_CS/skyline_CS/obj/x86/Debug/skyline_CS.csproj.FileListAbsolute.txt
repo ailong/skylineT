@@ -1,0 +1,14 @@
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\bin\Debug\skyline_CS.exe
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\bin\Debug\skyline_CS.pdb
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\bin\Debug\Interop.TerraExplorerX.dll
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\bin\Debug\AxInterop.TerraExplorerX.dll
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.csprojResolveAssemblyReference.cache
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\Interop.TerraExplorerX.dll
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\AxInterop.TerraExplorerX.dll
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.csproj.ResolveComReference.cache
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.SouthRMS_Main.resources
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.Properties.Resources.resources
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.csproj.GenerateResource.Cache
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.exe
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.pdb
+E:\CodeWork\sylineT\skyline_CS\skyline_CS\obj\x86\Debug\skyline_CS.TE3DMain.resources
